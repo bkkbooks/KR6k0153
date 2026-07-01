@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0153/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 毗尼關要事義
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X40/X40n0721.xml
+    old_id: X40n0721
+hash: sha256:a463478db808224debb5406cee962feb37cd1b3fb32baaa7099809279fa0cb1d

@@ -1,0 +1,202 @@
+canonical_identifier: bkk:krp/KR6k0153/v1
+canonical_location: https://kanripo.org/bkk/KR6k0153/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 毗尼關要事義
+  identifiers:
+    alt_id:
+    - X40n0721
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X40/X40n0721.xml
+    old_id: X40n0721
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0153_000.yaml, hash: 'sha256:a463478db808224debb5406cee962feb37cd1b3fb32baaa7099809279fa0cb1d'}
+  - {seq: 1, filename: KR6k0153_001.yaml, hash: 'sha256:00b775b17ac3eb25ae9523b61678dd521a80a368585b96d1cbe37e9026595d3f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0153_001.markers.yaml, hash: 'sha256:519902eae2e1c02052458fb73576386533b37d31623ff397ff0335e22ba72002'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 28606
+  label: 毗尼關要事義
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 卷第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-2
+    span:
+    - body
+    - 5957
+    - 5957
+  label: 第二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-3
+    span:
+    - body
+    - 7169
+    - 7169
+  label: 第三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-4
+    span:
+    - body
+    - 23322
+    - 23322
+  label: 第四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-5
+    span:
+    - body
+    - 24174
+    - 24174
+  label: 第五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-6
+    span:
+    - body
+    - 25380
+    - 25380
+  label: 第六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-7
+    span:
+    - body
+    - 25696
+    - 25696
+  label: 第七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-8
+    span:
+    - body
+    - 25944
+    - 25944
+  label: 第八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-9
+    span:
+    - body
+    - 26157
+    - 26157
+  label: 第九卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-10
+    span:
+    - body
+    - 26506
+    - 26506
+  label: 第十卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-11
+    span:
+    - body
+    - 27105
+    - 27105
+  label: 第十一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-12
+    span:
+    - body
+    - 27290
+    - 27290
+  label: 第十二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-13
+    span:
+    - body
+    - 27798
+    - 27798
+  label: 第十三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-14
+    span:
+    - body
+    - 27885
+    - 27885
+  label: 第十四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-15
+    span:
+    - body
+    - 28022
+    - 28022
+  label: 第十五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0153_X_001-mulu-16
+    span:
+    - body
+    - 28502
+    - 28502
+  label: 第十六卷
+  type: mulu
+  level: 1
+hash: sha256:66c50593bb16c7189b0302f813107e9e8a4a8d4b28bcfff402970ba029e0f856
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
