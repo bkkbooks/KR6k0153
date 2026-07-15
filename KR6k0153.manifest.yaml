@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0153/v1
 canonical_location: https://kanripo.org/bkk/KR6k0153/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 毗尼關要事義
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0153_000.yaml, hash: 'sha256:a463478db808224debb5406cee962feb37cd1b3fb32baaa7099809279fa0cb1d'}
-  - {seq: 1, filename: KR6k0153_001.yaml, hash: 'sha256:2895fcde4eddf7d5e55a8ea1d729780e092268aba560bd5fd24c0ee86c89c1fd'}
+  - {seq: 1, filename: KR6k0153_001.yaml, hash: 'sha256:10933c954ae2aebfdffabb3c05e75c0f01189e466961bbc46d02415b088f1a7b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0153_000.markers.yaml, hash: 'sha256:18d0309a4260d858ca04eeff28c47913dc09a8370dc815ef42432fd79274d95f'}
-  - {seq: 1, role: markers, filename: assets/KR6k0153_001.markers.yaml, hash: 'sha256:0a03ff51070055e20e3dd64848ee042154b0c681ef47636e819deb1e0afd4bea'}
+  - {seq: 1, role: markers, filename: assets/KR6k0153_001.markers.yaml, hash: 'sha256:3dcbe9786956f0200e296c5764bd09a06f71dfb2728734f37a463509b5cbf028'}
 table_of_contents:
 - ref:
     seq: 1
@@ -197,4 +197,7 @@ table_of_contents:
   label: 第十六卷
   type: mulu
   level: 1
-hash: sha256:7d45dc6d09811b2f74c8abcac05a48b21e24231a74824058fcd3c8699b665d37
+hash: sha256:51e03bdf4342fe9ad129ed6bb8458c58705453f260772249d57374462a35cb1b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
